@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\arbol_b.o
+./debug\nietecito.o
+./debug\regalo.o
+./debug\listaregalos.o
+./debug\readme.o
+./debug\moc_arbol_b.o
+./debug\moc_nietecito.o
+./debug\moc_regalo.o
+./debug\moc_listaregalos.o
+./debug\moc_readme.o
+);

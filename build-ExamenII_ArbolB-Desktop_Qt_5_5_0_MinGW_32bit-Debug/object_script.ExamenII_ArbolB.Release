@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\arbol_b.o
+./release\nietecito.o
+./release\regalo.o
+./release\listaregalos.o
+./release\readme.o
+./release\moc_arbol_b.o
+./release\moc_nietecito.o
+./release\moc_regalo.o
+./release\moc_listaregalos.o
+./release\moc_readme.o
+);
